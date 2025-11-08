@@ -16,7 +16,7 @@
 -  账号密码之间用英文冒号分隔，账号与账号之间英文逗号分隔
 - `ACCOUNTS`  Netlib账户(必填)，格式(单账号)：user:pass   格式(多账号)：user1:pass1,user2:pass2 
 
-- telegra为可选环境变量,不需要通知可不填写
+- telegram为可选环境变量,不需要通知可不填写
 - `BOT_TOKEN` 	Telegram机器人Token(https://t.me/BotFather)获取
 - `CHAT_ID`     Telegram 聊天ID
 	    
